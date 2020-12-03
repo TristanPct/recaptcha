@@ -59,6 +59,7 @@ require __DIR__ . '/appengine-https.php';
       <li><a href="/recaptcha-v2-checkbox.php">"I'm not a robot" checkbox</a></li>
       <li><a href="/recaptcha-v2-checkbox-explicit.php">"I'm not a robot" checkbox - Explicit render</a></li>
       <li><a href="/recaptcha-v2-invisible.php">Invisible</a></li>
+      <li><a href="/recaptcha-v2-invisible-explicit.php">Invisible - Explicit render</a></li>
     </ul>
     </li>
     <li><h2>reCAPTCHA v3</h2>
